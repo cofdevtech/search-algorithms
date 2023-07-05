@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "@cofdevtech/search-algorithm",
+  "description": "description",
+  "author": {
+    "name": "Omkar Deshmukh",
+    "email": "iamomkar666@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://npm.pkg.github.com/@cofdevtech/search-algorithm"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@cofdevtech"
+  }
+}
