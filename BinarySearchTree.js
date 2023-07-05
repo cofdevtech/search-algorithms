@@ -5,7 +5,6 @@ export default class BinaryTree {
         this.last = arr.length - 1;
         this.target = target;
     }
-    
     findNode() {
         if(this.start > this.last) {
             return "ARE YOU KIDDING ME!"
@@ -27,9 +26,3 @@ export default class BinaryTree {
         }
     }
 }
-
-// How to use :
-
-// const binary = new BinaryTree([1, 2, 3, 4, 5, 6, 7, 8, 9], 8);
-
-// console.log(binary.findNode());
